@@ -28,11 +28,10 @@ I'm passionate about working with a variety of technologies to build efficient a
 
 ---
 
-# 📊 GitHub Stats
-
-![Ilya-Cheb0503's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilya-Cheb0503\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-![Ilya-Cheb0503's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Cheb0503\&theme=dark\&hide_border=false)<br/>
-![Ilya-Cheb0503's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Cheb0503\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ilya-Cheb0503&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Cheb0503&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Cheb0503&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
