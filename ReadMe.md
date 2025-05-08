@@ -72,7 +72,4 @@ This project has allowed me to expand my skills in working with **asynchronous p
 
 ---
 
-*Proudly created with GPRM ( [https://gprm.itsvg.in](https://gprm.itsvg.in) )*
-
----
 
